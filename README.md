@@ -12,6 +12,6 @@ This repository serves as a reference and cookbook for training, fine-tuning, an
 - **Neural Network Modules:** [Flax Linen / NNX](https://github.com/google/flax)
 - **Optimization:** [Optax](https://github.com/google-deepmind/optax) (gradient transformations, schedules, and custom optimizers)
 - **Data Loading & Preprocessing:** [Grain](https://github.com/google/grain) (deterministic, high-throughput pipelines)
-- **Evaluation & Metrics:** [CLU](https://github.com/google/common-loop-utils) (Common Loop Utilities)
+- **Checkpointing:** [Orbax](https://github.com/google/orbax) (`orbax-checkpoint`)
 
 ---
